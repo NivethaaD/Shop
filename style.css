@@ -1,0 +1,24 @@
+
+body 
+{
+    margin: 5% 10%;
+    border: 1px solid black;
+    border-radius: 2px;
+   
+    
+}
+.container{
+    margin: 20px;
+}
+
+table{
+    border-collapse: collapse;
+    width: auto;
+}
+
+th,td{
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 3px;
+    text-align: center;
+}
